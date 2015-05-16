@@ -1,0 +1,13 @@
+{
+    // Reverse the precedence display order to the key-bindings
+    // Default is false. Defaul ordering means that when viewing entries in the
+    // panel if there are ever conflicting key-bindings,the bottom most results
+    // have higher precedence.
+    "reverse_sort_order" : false,
+
+    // timeout delay(milliseconds) before moving the cursor to the key-binding
+    // we need this because we need someway to ensure that the view
+    // is opened before we start trying to use it.
+    // Default is 250 ms
+    "timeout_delay": 250
+}
