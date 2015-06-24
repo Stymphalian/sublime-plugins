@@ -30,4 +30,5 @@ Plugin which shows a popup of the _scope_ string of the currently selected text.
 ##Misc
 ###RenameCurrentView 
     hotkey command to rename the currently opened view.
-
+###ExpandtoString
+	 command to wrap the closest quoted text.
